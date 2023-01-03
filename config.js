@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Arch Linux Repos',
+			icon: 'home',
+			link: 'https://archlinux.org',
 		},
 		{
 			id: '6',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
+			name: 'AUR',
+			icon: 'baseline',
+			link: 'https://aur.archlinux.org',
 		},
 	],
 
