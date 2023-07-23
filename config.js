@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '39.807',
-	defaultLongitude: '32.794',
+	defaultLatitude: '37.771',
+	defaultLongitude: '29.070',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Lemmy',
+					link: 'https://old.lemmy.zip',
 				},
 				{
 					name: 'Trello',
